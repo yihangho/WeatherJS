@@ -1,0 +1,9 @@
+{
+    "name": "WeatherJS",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Gets weather information of various cities on your new tab page.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
